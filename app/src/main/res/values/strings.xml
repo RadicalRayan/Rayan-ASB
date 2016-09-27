@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">Rayan ASB</string>
+    <string name="whyForClubs">
+        One might think that in a STEM school, the STEM clubs should have the most participation. Instead, clubs like Quantum Robotics, Math club and Competitive Programming Club have a decreasing number of members. As Clubs Coordinator, Rayan will work hard to promote all clubs, but especially support the STEM related clubs.</string>
+    <string name="promises">Often, candidates for any leadership position offer up promises for what they claim to do once elected. Having seen the false promises that candidates produce elections, Rayan has already started working towards his goals for STEM. In fact, this application has the functionality to report bullying and provide suggestions for ASB. He his making STEM better even without joining the ASB.</string>
+    <string name="whyMe">Having already in the Redmond Middle ASB for 2 years, he has the experience necessary to fill the Clubs Coordinator role. While serving on the RMS ASB, he was elected President for one term and took part in ASB related tasks including writing the ASB budget, fundraising and frequently speaking in front of over 1000 students.</string>
+    <string name="title_activity_activity_navigation">activity_navigation</string>
+    <string-array name="navOptions">
+        <item >Report Bullying</item>
+        <item >ASB Suggestions</item>
+        <item >Clubs</item>
+        <item >Rayan Krishnan</item>
+        <item >Share</item>
+    </string-array>
+    <string name="large_text">
+        Useless Text that need to be replaced.
+    </string>
+    <string name="action_settings">Settings</string>
+    <string-array name="ClubNames">
+        <item >Future Business Leaders of America (FBLA)</item>
+        <item >Book Club</item>
+        <item >National Honor Society (NHS)</item>
+        <item >Animanga Club</item>
+        <item >National Art Honor Society </item>
+        <item >Social Queries and Ultimately Academic Discussions (SQUAD)</item>
+        <item >Foods Around the World (FATW)</item>
+        <item >Physics Club (PHASER)</item>
+        <item >Girls Who Code (GWC)</item>
+        <item >Technology Student Association (TSA)</item>
+        <item >Math Club</item>
+        <item >Science Bowl</item>
+        <item >Model United Nations (MUN)</item>
+        <item >Quantum Robotics</item>
+        <item >Relay for Life (RFL)</item>
+        <item >Mock Trials Club</item>
+        <item >Key Club</item>
+        <item >Envirostories</item>
+        <item >Orienteering</item>
+        <item >Ensemble Club</item>
+        <item >Student Health Leaders (ARC-SHL)</item>
+        <item >Peer Tutor Lab</item>
+        <item >Game Design Club</item>
+        <item >League of Bodacious Individuals (LOBI)</item>
+        <item >Garden Club</item>
+        <item >Random Acts of Kindness (RAK)</item>
+        <item >Walk to End Alzheimer\'s</item>
+        <item >Gay, Lesbian, or Whatever Club (GLOW)</item>
+    </string-array>
+    <string-array name="ClubPresidents">
+        <item >Sonia Murthy, Miranda Pehrson</item>
+        <item >Shannon Hu, Samantha Cutsinger</item>
+        <item >Allison Tran</item>
+        <item >James Kusardi, Patric Mao</item>
+        <item > Katherine Johnston</item>
+        <item >Sam Brick, Matthew Bon Almen</item>
+        <item >Varun Kedia, Grace Ren</item>
+        <item >Ben Zabback, Margo Nanneman</item>
+        <item >Vibha Vadlamani</item>
+        <item >Naveen Sahi</item>
+        <item >Udit Ranasaria, Abishek Hariharan</item>
+        <item >Udit Ranasaria</item>
+        <item >Nivi Thomas</item>
+        <item >Andrew Wang</item>
+        <item >Andrew Wang, Shravya Kakulamarri, Sam Brick</item>
+        <item >Jake Newfeld, Kajal Sapkota</item>
+        <item >Grace Ren, Amy Zhang</item>
+        <item >Caeli MacLennan</item>
+        <item >Natalie Harris, Aaron Davis</item>
+        <item >Adrian Pang</item>
+        <item >Teri Guo, Claudia Nguyen</item>
+        <item >Gurleen Gill</item>
+        <item >Kieran Williams</item>
+        <item >Allison Clark</item>
+        <item >Allison Clark</item>
+        <item >Maanasa Nandula</item>
+        <item >Varsha Veeramachaneni</item>
+        <item >Alice Wiswell, Anna Vasurya</item>
+    </string-array>
+    <string-array name="ClubContact">
+        <item >niamu88@gmail.com, s-mpehrson@lwsd.org</item>
+        <item >hu.shannon@gmail.com, s-scutsinger@lwsd.org</item>
+        <item >teslastemnhs@gmail.com</item>
+        <item >ghastlycandle@gmail.com, pat.kl.mao@gmail.com</item>
+        <item >stemnahs@gmail.com</item>
+        <item >sam.brick@gmail.com, squad@overthelake.com</item>
+        <item >varunkedia47@gmail.com, s-grren@lwsd.org</item>
+        <item >bzabback@hotmail.com, mnanneman@gmail.com</item>
+        <item >vibha.vadlamani@gmail.com</item>
+        <item >tsastem@gmail.com</item>
+        <item >uditrana@outlook.com, abishekh99@gmail.com</item>
+        <item >uditrana@outlook.com</item>
+        <item >nividathomas@gmail.com</item>
+        <item >andrewywang224@gmail.com</item>
+        <item >andrewywang224@gmail.com, shravya97@gmail.com, sam.brick@gmail.com</item>
+        <item >jakenewfeld@msn.com, kajal.sapkota@gmail.com</item>
+        <item >s-grren@lwsd.org, s-amzhang@lwsd.org</item>
+        <item >hey_caeli@msn.com</item>
+        <item >s.natharris@gmail.com, s-aadavis@</item>
+        <item >adriansnpang@hotmail.com</item>
+        <item >teriguo20@gmail.com, cnguyen541@gmail.com</item>
+        <item >gill.kaur.gurleen@gmail.com</item>
+        <item >s-kwilliams@lwsd.org</item>
+        <item >s-allclark@lwsd.org, s-icrane@lwsd.org</item>
+        <item >s-allclark@lwsd.org</item>
+        <item >manunan07@hotmail.com</item>
+        <item >s-veeramachaneni@lwsd.org</item>
+        <item >s-awiswell@lwsd.org, s-avasurya@lwsd.org</item>
+    </string-array>
+    <string-array name="ClubMeetings">
+        <item >Tuesdays during A lunch in Mrs. Schaeffer\'s Room and B Lunch in Mrs. Smith\'s room</item>
+        <item >Mondays during A lunch in Ms. Fort\'s room and B lunch in Mr. Lenocker\'s room</item>
+        <item >First wednesday of every month in designated classrooms</item>
+        <item >Tuesdays and Thursdays during A lunch in Mr. Travis\'s room</item>
+        <item >Fridays after school in Mrs. Schaeffer\'s room</item>
+        <item >Thursdays during A lunch in Ms. Fort\'s room and B lunch in Mr. Lenocker\'s room</item>
+        <item >Wednesdays during lunch in Senora Robertson\'s room</item>
+        <item >Tuesdays after school in Mr. Saxby\'s room</item>
+        <item >Thursdays before school in Mrs. Wrenchey\'s room</item>
+        <item >Thursdays during A lunch in Mrs. Wrenchy\'s room and B lunch in Mrs. Smith\'s room</item>
+        <item >Thursdays after school in Mr. Ostlie\'s room</item>
+        <item >Irregular</item>
+        <item >Thursdays after school in Ms. Fort\'s room</item>
+        <item >Irregular</item>
+        <item >Irregular</item>
+        <item >Mondays after school in Mr. Ivy\'s room</item>
+        <item >Wednesdays before school in Mr. Bresnehan\'s room</item>
+        <item >Weekly in individual factions.</item>
+        <item >Wednesdays during lunch outside Mr. Town\'s room</item>
+        <item >Irregularly before or after school outside of Mr. Kruse\'s room (Likely Wednesdays)</item>
+        <item >Thursdays during A lunch in Mr. Town\'s room, B lunch in Mrs. Burt\'s room</item>
+        <item >Tuesdays after school in Mr. Lenocker\'s room and Thursdays after school in Mr. Travis\'s room</item>
+        <item >Tuesdays after school outside Mr. Bresnehan\'s room</item>
+        <item >Thursdays after school in Mr. Lenocker\'s room</item>
+        <item >TBA in Mr. Leslie\'s room</item>
+        <item >TBA in the Commons</item>
+        <item >TBA in Mr. Leslie\'s room</item>
+        <item >TBA</item>
+    </string-array>
+    <string-array name="Advisor">
+        <item >Lori-Zebrak Smith, Cynthia Burt</item>
+        <item >Annie Fort, Gerry Lenocker</item>
+        <item >Gerry Lenocker</item>
+        <item >Matthew Travis</item>
+        <item >Karen Schaeffer</item>
+        <item >Gerry Lenocker</item>
+        <item >Alicia Robertson</item>
+        <item >Peter Saxby</item>
+        <item >Kathy Wright, Melissa Wrenchy</item>
+        <item >Lori-Zebrack Smith, Arny Leslie</item>
+        <item >Kyle Ostlie</item>
+        <item >Arny Leslie</item>
+        <item >Annie Fort</item>
+        <item >none</item>
+        <item >Kyle Ostlie</item>
+        <item >Andrew Ivy</item>
+        <item >Ian Bresnehan</item>
+        <item >Mike Town</item>
+        <item >Mike Town</item>
+        <item >Matt Kruse</item>
+        <item >Alyson Nelson</item>
+        <item >Gerry Lenocker</item>
+        <item >Melissa Wrenchy</item>
+        <item >Gerry Lenocker</item>
+        <item >Arny Leslie</item>
+        <item >Lori-Zebrack Smith</item>
+        <item >Arny Leslie</item>
+        <item >TBA</item>
+    </string-array>
+
+</resources>
